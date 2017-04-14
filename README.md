@@ -1,6 +1,6 @@
 # my-project
 
-线上访问地址 http://vuebaoxian.applinzi.com/ 请在移动端访问
+线上访问地址 http://sellapp.applinzi.com/ 请在移动端访问
 
 ## Build Setup
 
